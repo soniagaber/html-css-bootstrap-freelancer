@@ -9,3 +9,12 @@
 .my-img-container{
     width: 200px;
 }
+
+#portfolio .my-inner-col{
+    background-color: magenta;
+    overflow: hidden;
+}
+
+.my-inner-col img{
+    width: 100%;
+}
